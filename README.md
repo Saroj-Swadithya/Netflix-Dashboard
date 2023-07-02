@@ -13,7 +13,8 @@ Netflix Data Analysis Using Tableau
 ![Netflix1](https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/aeaa919e-6205-47d0-b5c6-0defb383cf2c)
 
 #sheet2
-![Netflix1](https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/d36e3269-2108-484b-958d-2ca9f60a8381)
+![Netflix1](https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/13dfcda7-f22d-4360-bc38-6a42464ca633)
+
 
 #sheet3
 
