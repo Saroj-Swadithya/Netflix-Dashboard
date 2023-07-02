@@ -10,4 +10,4 @@ Lets Connect
 ## PROJECT NAME: 
 Netflix Data Analysis Using Tableau 
 
-![Netflix1]([https://user-images.githubusercontent.com/124501309/218270328-913ef05d-c6dc-478c-93ef-cc1dacdc1751.jpg](https://prod-apsoutheast-a.online.tableau.com/t/sarojswadithya/views/NetflixDashboard/Sheet1)https://prod-apsoutheast-a.online.tableau.com/t/sarojswadithya/views/NetflixDashboard/Sheet1)
+![Netflix1](https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/aeaa919e-6205-47d0-b5c6-0defb383cf2c)
