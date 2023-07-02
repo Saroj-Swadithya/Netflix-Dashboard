@@ -9,5 +9,21 @@ Lets Connect
 
 ## PROJECT NAME: 
 Netflix Data Analysis Using Tableau 
-
+#sheet1
 ![Netflix1](https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/aeaa919e-6205-47d0-b5c6-0defb383cf2c)
+
+#sheet2
+![Netflix1](https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/d36e3269-2108-484b-958d-2ca9f60a8381)
+
+#sheet3
+
+![Netflix1](https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/148c52f2-058b-4bea-9b1b-2d6d3d668b4f)
+
+#sheet4
+
+![Netflix1](https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/96629430-0245-4b56-893e-16d9d05a8f64)
+
+#sheet5
+
+![Netflix1](https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/39724d94-1a63-444d-89d8-1a323cd2f79e)
+
