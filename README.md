@@ -11,20 +11,32 @@ Lets Connect
 Netflix Data Analysis Using Tableau 
 
 #sheet1
+
+I created an impressive Netflix dashboard in Tableau using a dataset that contains over 6k rows of data and 12 different fields related to TV shows and movies. The first sheet is demonstrated how to visualize the count of TV shows and movies by year.
+
 ![Netflix1](https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/aeaa919e-6205-47d0-b5c6-0defb383cf2c)
 
 #sheet2
+
+This sheet depicts an interactive map showcasing the number of movies and TV shows released by country.
+
 <img width="772" alt="image" src="https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/121e8d3a-fa72-4fc0-b654-5c32c45b12e6">
 
 #sheet3
+
+ The follwing sheet represents the top 10 genre thats been trending in Netflix.
 
 ![Netflix1](https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/148c52f2-058b-4bea-9b1b-2d6d3d668b4f)
 
 #sheet4
 
+This sheet represents the distribution between the releases of Movie and TV shows.
+
 ![Netflix1](https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/96629430-0245-4b56-893e-16d9d05a8f64)
 
 #sheet5
+
+Finally, this sheet depicts the rating of different shows.
 
 ![Netflix1](https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/39724d94-1a63-444d-89d8-1a323cd2f79e)
 
