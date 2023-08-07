@@ -17,14 +17,6 @@ In the "Total Movies & TV Shows by Year" analysis, the graph demonstrates a prom
 
 ![Netflix1](https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/aeaa919e-6205-47d0-b5c6-0defb383cf2c)
 
-# Total Movies & TV Shows by Country:
-
-This worksheet showcases the distribution of movies and TV shows based on their country of origin. It provides an understanding of the geographical diversity of content on Netflix, highlighting countries with a significant contribution to the platform's library. 
-
-In the "Total Movies & TV Shows by Country" analysis, the distribution of content based on country of origin reveals a diverse landscape. The United States takes the lead with the highest number of movies and TV shows, followed by the United Kingdom, India, and Canada. This international array showcases Netflix's commitment to offering a wide range of content from various parts of the world.
-
-<img width="772" alt="image" src="https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/121e8d3a-fa72-4fc0-b654-5c32c45b12e6">
-
 # Top 10 Genre:
 
 This worksheet highlights the most popular genres among Netflix users. It showcases the genres that have the highest number of movies and TV shows, enabling you to identify trends and preferences among viewers.
@@ -39,7 +31,7 @@ The "Movies and TV Shows Distribution" analysis displays a clear distribution of
 
 ![Netflix1](https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/96629430-0245-4b56-893e-16d9d05a8f64)
 
-# Ratings:
+# Ratings Analysis:
 
 The Ratings worksheet displays user ratings for movies and TV shows on Netflix. It offers insights into the average ratings, distribution, and user preferences, helping you gauge the overall satisfaction and reception of different content.
 Certainly! The "Ratings" analysis showcases the distribution of content ratings on Netflix as follows:
@@ -64,3 +56,11 @@ This breakdown provides valuable insights into the variety of content ratings av
 
 ![Netflix1](https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/39724d94-1a63-444d-89d8-1a323cd2f79e)
 
+
+# Total Movies & TV Shows by Country:
+
+This worksheet showcases the distribution of movies and TV shows based on their country of origin. It provides an understanding of the geographical diversity of content on Netflix, highlighting countries with a significant contribution to the platform's library. 
+
+In the "Total Movies & TV Shows by Country" analysis, the distribution of content based on country of origin reveals a diverse landscape. The United States takes the lead with the highest number of movies and TV shows, followed by the United Kingdom, India, and Canada. This international array showcases Netflix's commitment to offering a wide range of content from various parts of the world.
+
+<img width="772" alt="image" src="https://github.com/Saroj-Swadithya/Netflix-Dashboard/assets/131875995/121e8d3a-fa72-4fc0-b654-5c32c45b12e6">
